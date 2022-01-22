@@ -1,4 +1,4 @@
-work on open3d 0.14.1 \
+work on open3d 0.14.1
 # compile
 ## windows
 ```bash
